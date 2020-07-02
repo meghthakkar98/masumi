@@ -120,7 +120,7 @@
 
 .heading {
   display: block;
-  margin-top: 2.5%;
+  margin-top: 1%;
   margin-bottom: 0px;
   padding-right: 0px;
   padding-left: 15px;
@@ -206,7 +206,7 @@
     margin-top: 0%;
   }
   .heading {
-    margin-top: 2.5%;
+    margin-top: 1%;
     padding-left: 15px;
   }
   .coming-soon-image {
@@ -250,7 +250,7 @@
     margin-top: 5%;
   }
   .heading {
-    margin-top: 5%;
+    margin-top: 2.5%;
     font-size: 3em;
     letter-spacing: 5px;
   }
@@ -274,7 +274,7 @@
     margin-bottom: 5%;
   }
   .heading {
-    margin-top: 5%;
+    margin-top: 2.5%;
     margin-bottom: 5%;
     padding-left: 0px;
     font-size: 3em;
@@ -309,12 +309,12 @@
     text-align: center;
   }
   .heading {
-    margin-top: 10%;
+    margin-top: 2.5%;
     margin-bottom: 0%;
     padding-left: 5px;
     color: #000;
     font-size: 2.5em;
-    line-height: 170%;
+    line-height: 150%;
   }
   .m-coming-soon-main-head {
     display: -webkit-box;
