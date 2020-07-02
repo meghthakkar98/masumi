@@ -66,7 +66,7 @@
   border-width: 1px;
   border-color: #616161;
   font-family: 'Fontsfree net sfprodisplay', sans-serif;
-  color: #303030;
+  color: #000;
   font-size: 2.5em;
   font-weight: 100;
   text-align: center;
@@ -101,7 +101,7 @@
   display: -ms-flexbox;
   display: flex;
   width: 100%;
-  margin-top: 5%;
+  margin-top: 2.5%;
   padding-top: 0%;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -120,12 +120,12 @@
 
 .heading {
   display: block;
-  margin-top: 5%;
+  margin-top: 2.5%;
   margin-bottom: 0px;
   padding-right: 0px;
   padding-left: 15px;
   font-family: 'Fontsfree net sfprodisplay', sans-serif;
-  color: #303030;
+  color: #000;
   font-size: 3em;
   line-height: 140%;
   font-weight: 100;
@@ -140,7 +140,7 @@
 .coming-soon-image {
   display: block;
   width: 10%;
-  margin-right: 2%;
+  margin-right: 0%;
   margin-left: 0%;
 }
 
@@ -206,14 +206,14 @@
     margin-top: 0%;
   }
   .heading {
-    margin-top: 5%;
+    margin-top: 2.5%;
     padding-left: 15px;
   }
   .coming-soon-image {
     display: block;
     width: 10%;
     margin-top: 5%;
-    margin-right: 2%;
+    margin-right: 0%;
     margin-left: 0%;
   }
   .coming-soon-image2 {
@@ -256,7 +256,7 @@
   }
   .coming-soon-image {
     width: 15%;
-    margin-right: 2%;
+    margin-right: 0%;
   }
 }
 
@@ -280,7 +280,7 @@
     font-size: 3em;
   }
   .coming-soon-image {
-    margin-right: 2%;
+    margin-right: 0%;
     margin-left: 0%;
   }
 }
@@ -309,7 +309,7 @@
     text-align: center;
   }
   .heading {
-    margin-top: 15%;
+    margin-top: 10%;
     margin-bottom: 0%;
     padding-left: 5px;
     color: #000;
@@ -361,7 +361,7 @@
     margin-top: 5%;
     margin-bottom: 0px;
     font-family: 'Fontsfree net sfprodisplay', sans-serif;
-    color: #5b5b5b;
+    color: #000;
     font-size: 2.75em;
     line-height: 100%;
     font-weight: 100;
